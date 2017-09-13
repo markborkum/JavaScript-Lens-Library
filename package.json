@@ -1,0 +1,28 @@
+{
+  "name": "lens",
+  "version": "0.0.0",
+  "description": "Lenses, Folds and Traversals",
+  "author": {
+    "name": "Mark Borkum",
+    "email": "mark.borkum@pnnl.gov"
+  },
+  "contributors": [
+    {
+      "name": "Mark Borkum",
+      "email": "mark.borkum@pnnl.gov",
+      "url": "https://www.emsl.pnl.gov/emslweb/people/mark-borkum"
+    }
+  ],
+  "license": "ISC",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "main": "index.js"
+}
